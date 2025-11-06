@@ -8,7 +8,7 @@ Since then, I completed a **Level 3 Extended Diploma in App Development (D\*DD)*
 - [RPGProject](https://github.com/thomedome/RPGProject) - CLI-Based RPG, with combat, items and saving. *v1.0 released!*
 
 ## My Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,vscode,cpp,clion,github,unreal,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,python,vscode,cpp,clion,github,unreal,robloxstudio)](https://skillicons.dev)
 
 ---
 
