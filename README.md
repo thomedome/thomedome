@@ -10,6 +10,3 @@ Since then, I completed a **Level 3 Extended Diploma in App Development (D\*DD)*
 ## My Skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,python,vscode,cpp,clion,github,unreal,robloxstudio)](https://skillicons.dev)
 
----
-
-*Probably fighting with my compiler as you're reading this.*  
