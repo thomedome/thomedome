@@ -6,8 +6,8 @@ Since then, I completed a **Level 3 Extended Diploma in App Development (D\*DD)*
 
 ## Current Projects ✅
 - [RPGProject](https://github.com/thomedome/RPGProject) - CLI-Based RPG, with combat, items and saving. *v1.0 released!*
-- [Pong Clone](https://github.com/thomedome/pong-clone) - SFML Pong Clone. Currently a WIP!
+- [Pong Clone](https://github.com/thomedome/pong-clone) - SFML Pong Clone. *v1.0 released!*
 
 ## My Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,bootstrap,python,vscode,cpp,clion,github,unreal,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,vscode,clion,unreal,robloxstudio,github)](https://skillicons.dev)
 
